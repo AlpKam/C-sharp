@@ -1,0 +1,34 @@
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.exe
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.deps.json
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.runtimeconfig.json
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.pdb
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen_Kam_Personel_Formu_Ödevi.Properties.Resources.resources
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.csproj.GenerateResource.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.AssemblyInfoInputs.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.AssemblyInfo.cs
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\refint\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.pdb
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.genruntimeconfig.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\ref\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.exe
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.deps.json
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.runtimeconfig.json
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\bin\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.pdb
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen_Kam_Personel_Formu_Ödevi.Properties.Resources.resources
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.csproj.GenerateResource.cache
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.AssemblyInfoInputs.cache
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.AssemblyInfo.cs
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\refint\Alperen Kam Personel Formu Ödevi.dll
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.pdb
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\Alperen Kam Personel Formu Ödevi.genruntimeconfig.cache
+C:\Users\48alp\Desktop\Alperen Kam Personel Formu Ödevi\obj\Debug\net8.0-windows\ref\Alperen Kam Personel Formu Ödevi.dll

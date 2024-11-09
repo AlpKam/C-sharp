@@ -1,0 +1,17 @@
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Ödev.exe
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Ödev.deps.json
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Ödev.runtimeconfig.json
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Ödev.dll
+C:\Users\48alp\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Alperen Kam Ödev.pdb
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen_Kam_Ödev.Properties.Resources.resources
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.csproj.GenerateResource.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.AssemblyInfoInputs.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.AssemblyInfo.cs
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.csproj.CoreCompileInputs.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.dll
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\refint\Alperen Kam Ödev.dll
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.pdb
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Alperen Kam Ödev.genruntimeconfig.cache
+C:\Users\48alp\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\ref\Alperen Kam Ödev.dll
