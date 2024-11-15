@@ -1,0 +1,17 @@
+C:\Users\48alp\source\repos\ListTree\bin\Debug\net8.0-windows\ListTree.exe
+C:\Users\48alp\source\repos\ListTree\bin\Debug\net8.0-windows\ListTree.deps.json
+C:\Users\48alp\source\repos\ListTree\bin\Debug\net8.0-windows\ListTree.runtimeconfig.json
+C:\Users\48alp\source\repos\ListTree\bin\Debug\net8.0-windows\ListTree.dll
+C:\Users\48alp\source\repos\ListTree\bin\Debug\net8.0-windows\ListTree.pdb
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.Form1.resources
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.csproj.GenerateResource.cache
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.AssemblyInfoInputs.cache
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.AssemblyInfo.cs
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.csproj.CoreCompileInputs.cache
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.dll
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\refint\ListTree.dll
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.pdb
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.genruntimeconfig.cache
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ref\ListTree.dll
+C:\Users\48alp\source\repos\ListTree\obj\Debug\net8.0-windows\ListTree.Properties.Resources.resources
